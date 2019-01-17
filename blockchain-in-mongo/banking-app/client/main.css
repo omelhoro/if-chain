@@ -1,0 +1,7 @@
+body {
+  padding: 10px;
+  /* font-family: sans-serif; */
+  display: flex;
+  justify-content: center;
+  font-family: "Thasadith", sans-serif;
+}
